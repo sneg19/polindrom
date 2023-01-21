@@ -1,0 +1,15 @@
+/home/sneg/Documents/C#/polindrom/bin/Debug/net7.0/polindrom
+/home/sneg/Documents/C#/polindrom/bin/Debug/net7.0/polindrom.deps.json
+/home/sneg/Documents/C#/polindrom/bin/Debug/net7.0/polindrom.runtimeconfig.json
+/home/sneg/Documents/C#/polindrom/bin/Debug/net7.0/polindrom.dll
+/home/sneg/Documents/C#/polindrom/bin/Debug/net7.0/polindrom.pdb
+/home/sneg/Documents/C#/polindrom/obj/Debug/net7.0/polindrom.csproj.AssemblyReference.cache
+/home/sneg/Documents/C#/polindrom/obj/Debug/net7.0/polindrom.GeneratedMSBuildEditorConfig.editorconfig
+/home/sneg/Documents/C#/polindrom/obj/Debug/net7.0/polindrom.AssemblyInfoInputs.cache
+/home/sneg/Documents/C#/polindrom/obj/Debug/net7.0/polindrom.AssemblyInfo.cs
+/home/sneg/Documents/C#/polindrom/obj/Debug/net7.0/polindrom.csproj.CoreCompileInputs.cache
+/home/sneg/Documents/C#/polindrom/obj/Debug/net7.0/polindrom.dll
+/home/sneg/Documents/C#/polindrom/obj/Debug/net7.0/refint/polindrom.dll
+/home/sneg/Documents/C#/polindrom/obj/Debug/net7.0/polindrom.pdb
+/home/sneg/Documents/C#/polindrom/obj/Debug/net7.0/polindrom.genruntimeconfig.cache
+/home/sneg/Documents/C#/polindrom/obj/Debug/net7.0/ref/polindrom.dll
